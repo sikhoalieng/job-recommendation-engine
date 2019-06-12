@@ -5,7 +5,6 @@ This is the neural network recommendation engine that powers our online career e
 ![Demo](https://github.com/sikhoalieng/job-recommendation-engine/blob/master/img/CareerOracle_demo.gif)
 
 ## Getting Started
-WARNING: 879 MB download
 
 The following folder structure is recommended
 
