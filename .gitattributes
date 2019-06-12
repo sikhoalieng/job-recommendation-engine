@@ -1,0 +1,4 @@
+feature_data/GloVe/glove.6B.50d.txt filter=lfs diff=lfs merge=lfs -text
+model/neural_network.h5 filter=lfs diff=lfs merge=lfs -text
+feature_data/feature_values.h5 filter=lfs diff=lfs merge=lfs -text
+feature_data/job_descriptions.h5 filter=lfs diff=lfs merge=lfs -text
